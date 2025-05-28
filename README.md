@@ -77,4 +77,3 @@ dist/
 
 ## 💬 Prompting Disclosure
 
-This project was supported with guidance and code help from **ChatGPT**. Prompt history will be shared during the final interview as per the guidelines.
